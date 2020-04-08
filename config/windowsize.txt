@@ -1,0 +1,2 @@
+Window resolution size below
+[1920:1080]
